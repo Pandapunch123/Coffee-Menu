@@ -14,17 +14,17 @@ const coffeeMenu = [
         seasonal: false,
     },
     {
-        name: espresso,
-        price: 5,
-        seasonal: false,
-    }
-    {
-        name: "latte",
-        price: 5,
+        name: "espresso",
+        price: "5",
         seasonal: false,
     },
     {
-        name: affogato,
+        name: "latte",
+        price: "5",
+        seasonal: false,
+    },
+    {
+        name: "affogato",
         price: "9",
         seasonal: true,
     }, 
@@ -32,25 +32,25 @@ const coffeeMenu = [
         name: "macchiato",
         price: "6",
         seasonal: false,
-    }
+    },
     {
-        name: americano,
-        price: 7,
+        name: "americano",
+        price: "7",
         seasonal: false,
-    }
+    },
     {
         name: "iced coffee",
         price: "6",
         seasonal: false,
     },
     {
-        name: frappe,
+        name: "frappe",
         price: "8",
         seasonal: false,
-    }
+    },
     {
         name: "cuban espresso",
-        price: 10,
+        price: "10",
         seasonal: true,
     }
 ]
